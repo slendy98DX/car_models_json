@@ -1,5 +1,103 @@
 [
   {
+    "brand": "ABT",
+    "models": [
+      "Audi RS6",
+      "Audi RS7",
+      "Audi SQ5",
+      "Volkswagen Golf R",
+      "Volkswagen Tiguan R",
+      "Audi Q7",
+      "Audi Q8"
+    ]
+  },
+  {
+    "brand": "AC",
+    "models": [
+      "Cobra",
+      "Ace",
+      "428",
+      "3000ME"
+    ]
+  },
+  {
+    "brand": "AMC",
+    "models": [
+      "AMX",
+      "Javelin",
+      "Pacer",
+      "Gremlin",
+      "Matador",
+      "Eagle"
+    ]
+  },
+  {
+    "brand": "AMC",
+    "models": [
+      "AMX",
+      "Javelin",
+      "Pacer",
+      "Gremlin",
+      "Matador",
+      "Eagle"
+    ]
+  },
+  {
+    "brand": "Abadal",
+    "models": [
+      "110 HP",
+      "15.9 HP",
+      "20 HP",
+      "30 HP",
+      "50 HP",
+      "60 HP"
+    ]
+  },
+  {
+    "brand": "Abarth",
+    "models": [
+      "595",
+      "595 Turismo",
+      "595 Competizione",
+      "695 Rivale",
+      "695 70° Anniversario",
+      "124 Spider"
+    ]
+  },
+  {
+    "brand": "Abbott-Detroit",
+    "models": [
+      "Model 44",
+      "Model 45",
+      "Model 6-44",
+      "Model 6-45",
+      "Model 6-46",
+      "Model 6-49"
+    ]
+  },
+  {
+    "brand": "Acura",
+    "models": [
+      "ILX",
+      "MDX",
+      "NSX",
+      "RDX",
+      "RLX",
+      "TLX"
+    ]
+  },
+  {
+    "brand": "Aixam",
+    "models": [
+      "City",
+      "Crossline",
+      "Coupé",
+      "Crossover",
+      "GTO",
+      "Mega"
+    ]
+  },
+  {
     "brand": "Alfa Romeo",
     "models": [
       "145",
@@ -21,6 +119,190 @@
       "GT",
       "Giulietta",
       "Giulia"
+    ]
+  },
+  {
+    "brand": "Alpina",
+    "models": [
+      "B3",
+      "B4",
+      "B5",
+      "B7",
+      "XB3",
+      "XD3",
+      "XD4",
+      "XD7"
+    ]
+  },
+  {
+    "brand": "Alpine",
+    "models": [
+      "A110",
+      "A110S"
+    ]
+  },
+  {
+    "brand": "Alta",
+    "models": []
+  },
+  {
+    "brand": "Alta",
+    "models": []
+  },
+  {
+    "brand": "Alvis",
+    "models": [
+      "Speed 25",
+      "Firebird",
+      "4.3 Litre",
+      "TA 14",
+      "TC 21/100",
+      "TD 21",
+      "TF 21"
+    ]
+  },
+  {
+    "brand": "Alvis",
+    "models": [
+      "Speed 25",
+      "Firebird",
+      "4.3 Litre",
+      "TA 14",
+      "TC 21/100",
+      "TD 21",
+      "TF 21"
+    ]
+  },
+  {
+    "brand": "Apollo",
+    "models": [
+      "IE",
+      "N"
+    ]
+  },
+  {
+    "brand": "Apollo",
+    "models": [
+      "IE",
+      "N"
+    ]
+  },
+  {
+    "brand": "Arash",
+    "models": [
+      "AF10",
+      "AF8",
+      "AF10 Hybrid"
+    ]
+  },
+  {
+    "brand": "Arash",
+    "models": [
+      "AF10",
+      "AF8",
+      "AF10 Hybrid"
+    ]
+  },
+  {
+    "brand": "Arcfox",
+    "models": [
+      "GT",
+      "EVS",
+      "M1"
+    ]
+  },
+  {
+    "brand": "Arcfox",
+    "models": [
+      "GT",
+      "EVS",
+      "M1"
+    ]
+  },
+  {
+    "brand": "Ariel",
+    "models": [
+      "Atom",
+      "Nomad",
+      "Ace"
+    ]
+  },
+  {
+    "brand": "Ariel",
+    "models": [
+      "Atom",
+      "Nomad",
+      "Ace"
+    ]
+  },
+  {
+    "brand": "Aro",
+    "models": [
+      "240",
+      "244",
+      "246",
+      "10"
+    ]
+  },
+  {
+    "brand": "Aro",
+    "models": [
+      "240",
+      "244",
+      "246",
+      "10"
+    ]
+  },
+  {
+    "brand": "Arrinera",
+    "models": [
+      "Hussarya",
+      "Hussarya GT"
+    ]
+  },
+  {
+    "brand": "Arrinera",
+    "models": [
+      "Hussarya",
+      "Hussarya GT"
+    ]
+  },
+  {
+    "brand": "Arrival",
+    "models": []
+  },
+  {
+    "brand": "Arrival",
+    "models": []
+  },
+  {
+    "brand": "Artega",
+    "models": [
+      "GT"
+    ]
+  },
+  {
+    "brand": "Artega",
+    "models": [
+      "GT"
+    ]
+  },
+  {
+    "brand": "Ascari",
+    "models": [
+      "A10",
+      "KZ1",
+      "Ecosse",
+      "Race Resort Ascari"
+    ]
+  },
+  {
+    "brand": "Ascari",
+    "models": [
+      "A10",
+      "KZ1",
+      "Ecosse",
+      "Race Resort Ascari"
     ]
   },
   {
@@ -205,6 +487,40 @@
     ]
   },
   {
+    "brand": "Citroën",
+    "models": [
+      "Berlingo",
+      "C-Crosser",
+      "C-Elissée",
+      "C-Zero",
+      "C1",
+      "C2",
+      "C3",
+      "C3 Picasso",
+      "C4",
+      "C4 Aircross",
+      "C4 Cactus",
+      "C4 Coupé",
+      "C4 Grand Picasso",
+      "C4 Sedan",
+      "C5",
+      "C5 Break",
+      "C5 Tourer",
+      "C6",
+      "C8",
+      "DS3",
+      "DS4",
+      "DS5",
+      "Evasion",
+      "Jumper",
+      "Jumpy",
+      "Saxo",
+      "Nemo",
+      "Xantia",
+      "Xsara"
+    ]
+  },
+  {
     "brand": "Dacia",
     "models": [
       "Dokker",
@@ -249,6 +565,18 @@
       "RAM",
       "Stealth",
       "Viper"
+    ]
+  },
+  {
+    "brand": "Ferrari",
+    "models": [
+      "812 Superfast",
+      "F8 Tributo",
+      "SF90 Stradale",
+      "Roma",
+      "Portofino",
+      "Monza SP1",
+      "Monza SP2"
     ]
   },
   {
@@ -497,6 +825,18 @@
       "Soul",
       "Sportage",
       "Venga"
+    ]
+  },
+  {
+    "brand": "Lamborghini",
+    "models": [
+      "Huracán",
+      "Aventador",
+      "Urus",
+      "Sian FKP 37",
+      "Sián Roadster",
+      "Centenario",
+      "Reventón"
     ]
   },
   {
